@@ -25,11 +25,8 @@
 
 <p align="center">
   <a href="https://daneshjoy.ir">
-    <img src="{{ '/images/DaneshJoy.png' | relative_url }}" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+    <img src="./images/DaneshJoy.png" width="300px" title="DaneshJoy" alt="DaneshJoy">
   </a>
 </p>
 
-<div class="well">
-<div class="rw-ui-container"></div>
-</div>
 
