@@ -14,7 +14,6 @@
 | DeepLearning-Intro-02.pptx | **اسلاید 2: روش‌های یادگیری عمیق** |
 | DeepLearning-Intro-03.pptx | **اسلاید 3: شبکه‌های عصبی کانولوشنی** |
 
-  
 -------------------------------------
 
 ## لینک ویدیوهای آموزشی برای هر کد
@@ -27,7 +26,7 @@
 
 <p align="center">
   <a href="https://daneshjoy.ir">
-    <img src="{{ '/assets/images/DaneshJoy.png' | relative_url }}" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
+    <img src="{{ '/images/DaneshJoy.png' | relative_url }}" width="300px" title="DaneshJoy" alt="DaneshJoy"> 
   </a>
 </p>
 
