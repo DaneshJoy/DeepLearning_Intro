@@ -1,19 +1,23 @@
 
 **اسلایدها و ویدیوهای کلاس آموزش یادگیری عمیق مقدماتی**
 
-## دانلود کدها
+## لینک های مفید
+- صفحه گیتهاب: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro" target="_blank"><img src="{{ '/assets/images/github.png' | relative_url }}" width="30px" title="DeepLearning_Intro on Github" alt="DeepLearning_Intro on Github"></a><br/>
 - دانلود مستقیم اسلایدها در یک فایل زیپ: <a  href="https://github.com/DaneshJoy/DeepLearning_Intro/archive/master.zip">دانلود</a><br/>
+- لیست پخش آپارات: <a  href="https://www.aparat.com/playlist/282124" target="_blank"><img src="{{ '/assets/images/aparat.png' | relative_url }}" width="30px" title="آموزش یادگیری عمیق (مقدماتی)" alt="آموزش یادگیری عمیق (مقدماتی)"></a><br/>
+- لیست پخش یوتیوب: <a  href="" target="_blank"><img src="{{ '/assets/images/youtube.png' | relative_url }}" width="30px" title="آموزش یادگیری عمیق (مقدماتی)" alt="آموزش یادگیری عمیق (مقدماتی)"></a><br/>
 
 -------------------------------------
 
 ## موضوع هر اسلاید
 | | |
 | :----: | -----: |
-| DeepLearning-Intro-01.pptx | **اسلاید 1: مقدمه و معرفی** |
-| DeepLearning-Intro-02.pptx | **اسلاید 2: روش‌های یادگیری عمیق** |
-| DeepLearning-Intro-03.pptx | **اسلاید 3: شبکه‌های عصبی کانولوشنی** |
-| DeepLearning-Intro-04.pptx | **اسلاید 4: آموزش شبکه‌های عصبی** |
-| DeepLearning-Intro-05.pptx | **اسلاید 5: معرفی منابع یادگیری** |
+| DeepLearning-Intro-01.pdf | **اسلاید 1: مقدمه و معرفی** |
+| DeepLearning-Intro-02.pdf | **اسلاید 2: روش‌های یادگیری عمیق** |
+| DeepLearning-Intro-03.pdf | **اسلاید 3: شبکه‌های عصبی کانولوشنی** |
+| DeepLearning-Intro-04.pdf | **اسلاید 4: آموزش شبکه‌های عصبی** |
+| DeepLearning-Intro-05.pdf | **اسلاید 5: معرفی منابع یادگیری** |
+| DeepLearning-Intro-06.pdf | **اسلاید 6: راه اندازی بستر کدنویسی** |
 
 -------------------------------------
 
